@@ -1,3 +1,6 @@
 [submodule "yalu102"]
 	path = yalu102
 	url = git@github.com:kpwn/yalu102.git
+[submodule "iOSRE"]
+	path = iOSRE
+	url = git@github.com:kpwn/iOSRE.git
