@@ -5,3 +5,6 @@
 	path = iOSRE
 	url = git@github.com:kpwn/iOSRE.git
 
+[submodule "iOSRE_Book"]
+	path = iOSRE_Book
+	url = git@github.com:iosre/iOSAppReverseEngineering.git
